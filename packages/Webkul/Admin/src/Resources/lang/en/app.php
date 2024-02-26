@@ -3550,6 +3550,6 @@ return [
             'tax'               => 'Tax',
         ],
     ],
-    'key-id'                      => 'Key Id',
-    'key-secret'                      => 'Key Secret',
+    'key-id'                      => 'rzp_test_PM5F8BO2Wydqzq',
+    'key-secret'                      => 'scewM3MvDsTCvKsaO9mFDwJk',
 ];
